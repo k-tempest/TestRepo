@@ -1,2 +1,2 @@
 # TestRepo
-this is a testing repository dupa dupa
+this is a testing repository
